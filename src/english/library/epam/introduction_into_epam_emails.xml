@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+    <entry key="snail-mail">обычная почта</entry>
+    <entry key="salutation">приветствие</entry>
+    <entry key="to arrange an appointment">договариваться о встрече</entry>
+    <entry key="to decline">отклонять</entry>
+    <entry key="when would suit you?">какое время тебе подойдёт?</entry>
+    <entry key="when would suit you?">какое время тебе подойдёт?</entry>
+</properties>
