@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="to peek">заглядывать</entry>
+<entry key="to consider">рассматривать, считать</entry>
+<entry key="convenience">удобство, комфорт</entry>
+<entry key="a hyphen">дефис</entry>
+<entry key="a set">набор, комплект</entry>
+<entry key="a vowel">гласная буква</entry>
+<entry key="to enhance">повышать, усиливать</entry>
+<entry key="thereby">тем самым, таким образом</entry>
+<entry key="to convey">выражать, передавать</entry>
+<entry key="angle brackets">угловые скобки(&lt;&gt;)</entry>
+<entry key="to derive">выводить, получить, происходить, наследовать</entry>
+<entry key="to expand">расширять, расширяться</entry>
+<entry key="to treat">обращаться, обрабатывать</entry>
+<entry key="to offer">предлагать</entry>
+<entry key="to exceed">превышать, превосходить</entry>
+<entry key="to truncate">усекать, обрезать</entry>
+<entry key="a occurrence">совпадение, появление, случай</entry>
+<entry key="briefly">кратко, в кратце</entry>
+<entry key="a remainder">остаток(остальная часть)</entry>
+<entry key="a dash">тире</entry>
+<entry key="radix">основание системы счисления</entry>
+<entry key="a bulk operation">основная операция</entry>
+<entry key="overheads">накладные расходы</entry>
+<entry key="an entire collection">все коллекции</entry>
+<entry key="to denote">обозначать, означать</entry>
+<entry key="a traffic intersection">транспортная развязка</entry>
+<entry key="to achieve">достигать, добиваться</entry>
+<entry key="to scrutinize">тщательно исследовать</entry>
+<entry key="to retrive">извлекать, получать</entry>
+<entry key="to ensure">гарантировать, обеспечить</entry>
+<entry key="to obtain">получить, получать</entry>
+<entry key="tagged">помеченый</entry>
+<entry key="miscellaneous">прочее, разное</entry>
+<entry key="to conserve memory">для экономии памяти</entry>
+<entry key="to break up">разбить, разбивать</entry>
+<entry key="therefore">поэтому, следовательно</entry>
+<entry key="desired">желаемый, вожделенный</entry>
+<entry key="cumbersome">громоздкий</entry>
+<entry key="no doubt">нет сомнений в то, несомненно</entry>
+<entry key="double quotation marks">двойные ковычки</entry>
+<entry key="a routine">подпрограмма</entry>
+<entry key="correspond">соответствовать</entry>
+<entry key="to evaluate">оценивать</entry>
+<entry key="an asterisk">звёздочка(символ)</entry>
+<entry key="prior to">до</entry>
+<entry key="an entry">запись</entry>
+<entry key="flexible">гибкий</entry>
+<entry key="to conform">соответствовать</entry>
+<entry key="to affect">влиять</entry>
+</properties>

@@ -39,7 +39,7 @@ getFile();
         folders[3] = new File( projectPath1 + "/src/english/library/Book");
         folders[4] = new File( projectPath1 + "/src/english/library/");
 
-        try (Stream<Path> paths = Files.walk(Paths.get( projectPath1 + "/src/english/library/Book"))) {
+        try (Stream<Path> paths = Files.walk(Paths.get( projectPath1 + "/src/english/library/words from radio'voise of america'"))) {
             paths.filter( Files::isRegularFile ).forEach( path -> {
                 try {
                     Properties properties = new Properties();

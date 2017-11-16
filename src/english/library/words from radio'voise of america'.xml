@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="a welder">сварщик</entry>
+<entry key="Step a side!">отойдите в сторону!</entry>
+<entry key="a communications director">заведующий отделом связи</entry>
+<entry key="a squash">тыква, кабачок</entry>
+<entry key="a principal">директор школы</entry>
+<entry key="Watch your step!">смотрите под ноги!</entry>
+<entry key="i want to get it right">я хочу понять</entry>
+<entry key="thank you for your time">спасибо за внимание</entry>
+<entry key="wheat">пшеница</entry>
+<entry key="Move along!">проходите!</entry>
+<entry key="a globe">глобус</entry>
+<entry key="a grinder">шлифовщик, точильщик</entry>
+<entry key="Look out!">берегитесь!</entry>
+<entry key="a tape recorder">магнитофон</entry>
+</properties>
