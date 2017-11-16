@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="Beware of the dog">Осторожно, злая собака.</entry>
+<entry key="to put off till tomorow">откладывать на завтра</entry>
+<entry key="to answer back">пререкаться, возражать, дерзить</entry>
+<entry key="to dial">набирать номер</entry>
+<entry key="Don't lean out of the window.">Не высовываться из окна.</entry>
+<entry key="Fasten seat belts.">Пристегните ремни.</entry>
+</properties>

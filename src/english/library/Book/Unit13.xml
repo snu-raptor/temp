@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="a lass">девушка</entry>
+<entry key="to chase">преследовать, гнаться</entry>
+<entry key="a Queen">королева</entry>
+<entry key="a bachelor">холостяк</entry>
+<entry key="a groom">жених</entry>
+<entry key="a bride">невеста</entry>
+<entry key="a doll">кукла</entry>
+<entry key="a monk">монах</entry>
+<entry key="a chairman">председатель</entry>
+<entry key="a fairy">фея</entry>
+<entry key="a witch">ведьма, колдунья</entry>
+<entry key="a clown">клоун</entry>
+<entry key="a sailor">моряк</entry>
+<entry key="a stranger">незнакомец</entry>
+<entry key="a passer-by">прохожий</entry>
+<entry key="a mermaid">русалка</entry>
+<entry key="to offer">предлагать</entry>
+<entry key="to fix up">починить</entry>
+<entry key="a nun">монахиня</entry>
+<entry key="an amazon">амазонка</entry>
+<entry key="an offer">предложение</entry>
+</properties>

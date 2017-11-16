@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="low">низкий</entry>
+<entry key="a fellow">товарищ</entry>
+<entry key="a cage">клетка</entry>
+<entry key="call back later.">перезвоните позже</entry>
+<entry key="to be sorry">сожалеть о чём-то</entry>
+<entry key="to be over">закончиться</entry>
+<entry key="as usual">как обычно</entry>
+<entry key="faithful">верный, верующий</entry>
+<entry key="a heavy traffic">интенсивное движение</entry>
+<entry key="to be fond of smth">увлекаться чем-то</entry>
+<entry key="wonderful">удивительный, замечательный</entry>
+<entry key="a sight">достопримечательность</entry>
+<entry key="a Muscovite">москвич</entry>
+<entry key="to be in">быть дома, в офисе, внутри чего-либо</entry>
+<entry key="to be out(away)">быть не дома, не в офисе, не в здании</entry>
+<entry key="the facts are clear">факты очевидны</entry>
+<entry key="a babysitter">нянька</entry>
+<entry key="a workmate">напарник</entry>
+<entry key="frosty">морозный, холодный</entry>
+<entry key="a girl of my dream">девушка моей мечты</entry>
+<entry key="What is the matter? - What is wrong?">В чём дело? - Что не так?</entry>
+<entry key="Are we no longer friends?">Мы больше не друзья?</entry>
+<entry key="also">тоже</entry>
+<entry key="to be out of service">быть вне зоны обслуживания</entry>
+<entry key="to be on duty">дежурить</entry>
+<entry key="rather">скорее, охотнее</entry>
+<entry key="to be in order">быть в порядке, в рабочем состоянии</entry>
+<entry key="a good fellow">славный малый</entry>
+<entry key="high">высокий</entry>
+<entry key="practically">практически</entry>
+<entry key="to be out of order">быть в нерабочем состоянии</entry>
+<entry key="to be eager">очень чего-то хотеть</entry>
+<entry key="to be miserable">быть несчастным, подавленым</entry>
+<entry key="hectic">беспокойный, напряжённый, бурный</entry>
+<entry key="dry">сухой</entry>
+<entry key="heavy">тяжёлый, сложный, сильный</entry>
+</properties>

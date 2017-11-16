@@ -166,29 +166,25 @@ public class MainWindow extends JFrame
                 });*/
 
         trueButton.addActionListener(
-                new ActionListener()
-                {
-                    @Override
-                    public void actionPerformed(ActionEvent e) {
-                        lastWordLabel.setText("<html>" + /*Last word:<br>*/"Englsih: " + word.getEngish()/* + "<br>Version: " + word.getWrongRussian() */+ "<br>Right: " + word.getRightRussian() + "</html>");
-                        //System.out.println(word.isCorrect() + " " + word.getRightRussian().equals(word.getWrongRussian()) + (word.isCorrect() && word.getRightRussian().equals(word.getWrongRussian())));
-                    /*    if (word.isCorrect() || word.getRightRussian().equals(word.getWrongRussian())) {
-                            counterPoints++;
-                            info.setBackground(new Color(143, 255, 71));
-                            timer.restart();
-                            p.setBackground(Color.GREEN);
-                        } else {
-                            info.setBackground(new Color(255, 110, 110));
+          e -> {
+              lastWordLabel.setText("<html>" + /*Last word:<br>*/"Englsih: " + word.getEngish()/* + "<br>Version: " + word.getWrongRussian() */+ "<br>Right: " + word.getRightRussian() + "</html>");
+              //System.out.println(word.isCorrect() + " " + word.getRightRussian().equals(word.getWrongRussian()) + (word.isCorrect() && word.getRightRussian().equals(word.getWrongRussian())));
+          /*    if (word.isCorrect() || word.getRightRussian().equals(word.getWrongRussian())) {
+                  counterPoints++;
+                  info.setBackground(new Color(143, 255, 71));
+                  timer.restart();
+                  p.setBackground(Color.GREEN);
+              } else {
+                  info.setBackground(new Color(255, 110, 110));
 
-                            timer.restart();
-                            p.setBackground(Color.RED);
-                        }
+                  timer.restart();
+                  p.setBackground(Color.RED);
+              }
 */
-                        counterQuestions++;
-                        setWords();
-                        points.setText(counterPoints + " from " + counterQuestions);
-                    }
-                });
+              counterQuestions++;
+              setWords();
+              points.setText(counterPoints + " from " + counterQuestions);
+          } );
 
         add(p);
     }
@@ -202,13 +198,7 @@ public class MainWindow extends JFrame
         fileMenu.add(exit);
 
         exit.addActionListener(
-                new ActionListener()
-                {
-                    @Override
-                    public void actionPerformed(ActionEvent event) {
-                        System.exit(0);
-                    }
-                });
+          event -> System.exit(0) );
 
         JMenuBar bar = new JMenuBar();
         setJMenuBar(bar);

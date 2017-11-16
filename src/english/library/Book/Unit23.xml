@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="to stroke">гладить(собаку, кота)</entry>
+<entry key="an achivement">достижение</entry>
+<entry key="to disturb">беспокоить</entry>
+<entry key="a misunderstanding">недопонимание, недоразумение</entry>
+<entry key="a defeat">поражение</entry>
+<entry key="to charge">заряжать</entry>
+</properties>

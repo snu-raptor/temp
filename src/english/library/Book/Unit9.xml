@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="a ferry">паром</entry>
+<entry key="on the train">в поезде</entry>
+<entry key="to pay attention">уделять внимание</entry>
+<entry key="shampoo">шампунь</entry>
+<entry key="to puzzle">ставить в тупик, озадачивать</entry>
+</properties>

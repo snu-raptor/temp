@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="silent">тихий</entry>
+<entry key="to doubt">сомневаться</entry>
+<entry key="fooll">дурак, глупец</entry>
+<entry key="dull">скучный, тупой</entry>
+<entry key="a doubt">сомнение</entry>
+</properties>

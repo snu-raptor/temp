@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="a pig">поросёнок</entry>
+<entry key="honest">честный</entry>
+<entry key="an ox">бык</entry>
+<entry key="powder">порох</entry>
+<entry key="a goose">гусь</entry>
+<entry key="a marry-go-round">карусель</entry>
+<entry key="a forget-me-not">незабудка</entry>
+<entry key="a cuckoo">кукушка</entry>
+<entry key="a traveler">путешественник</entry>
+<entry key="to hasten">спешить</entry>
+<entry key="a calf">телёнок</entry>
+<entry key="wool">шерсть</entry>
+<entry key="manservant">слуга, раб</entry>
+<entry key="a louse">вошь</entry>
+<entry key="a passer-by">прохожий</entry>
+<entry key="a swine">свинья</entry>
+<entry key="to offer">предлагать</entry>
+<entry key="a grown-up">взрослый</entry>
+<entry key="an offer">предложение</entry>
+</properties>

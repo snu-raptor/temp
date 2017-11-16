@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>just comment</comment>
+<entry key="What is your job?">Кем ты работаешь?</entry>
+<entry key="a father-in-law">свёкор, тесть</entry>
+<entry key="a subway">метро</entry>
+<entry key="relatives">родственники</entry>
+<entry key="personal identity card">персональная идентификационная карта</entry>
+<entry key="a nurse">медсестра</entry>
+<entry key="to fall in love with">влюбиться</entry>
+<entry key="exciting">увлекательный, волнующий, захватывающий</entry>
+<entry key="a letter in English">письмо на английском</entry>
+<entry key="to be difficult to use">быть сложным в использовании</entry>
+<entry key="to be on holyday">быть на каникулах</entry>
+<entry key="a spouse">супружеская пара</entry>
+<entry key="to understand">понимать</entry>
+<entry key="How much is a humburger?">Сколько стоит гамбургер?</entry>
+<entry key="to speak fast">говорить быстро</entry>
+<entry key="it is good paractice for smb">это хорошая практика для (кого-либо)</entry>
+<entry key="to be from different countries">быть из разных стран</entry>
+<entry key="a mother-in-law">свекровь, тёща</entry>
+<entry key="to be a student at a school">быть студентом в школе</entry>
+<entry key="an accountant">бухгалтер</entry>
+<entry key="to be at home">быть дома</entry>
+<entry key="a nephew">племянник</entry>
+<entry key="a niece">племянница</entry>
+<entry key="Here you are!">Вот пожалуйста!</entry>
+<entry key="Can i have smth?">можно мне что-то?</entry>
+<entry key="to be married to">быть женатым на</entry>
+<entry key="an apartment">квартира</entry>
+<entry key="a cousin">кузин</entry>
+<entry key="parents">родители</entry>
+</properties>
